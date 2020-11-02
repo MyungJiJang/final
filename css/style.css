@@ -155,17 +155,20 @@ section{
 	font-weight: 600;;
 }
 #s2 .img_txt h5{
-    padding-top:5vh;
+    padding-top:4vh;
     line-height: 20px;
     font-weight: 550;
     font-size: 16px;
 }
-#s2 .img_txt .More{
-    display: flex;
-    font-weight:bold;
-	text-align: center;
-	margin-top:15vh;
-	line-height: 40px; 
+#s2 .img_txt h3{
+    font-weight: 500;
+    font-size:17px;
+    line-height: 20px;
+    margin-top:4vh;
+    margin-left:vw;
+    position:absolute;
+    text-align: left;
+    color:#333;
 }
 #s2 .img_txt .More a:hover{
     color:#42abe2;
@@ -175,20 +178,16 @@ section{
     color:#fff;
     font-size: 14px;
     font-weight: 400;
-    margin-left:vw;
     width:180px;
 	height: 40px;
     background-color: #42abe2;
 }
-#s2 .img_txt h3{
-    font-weight: 500;
-    font-size:17px;
-    line-height: 20px;
-    margin-top:5vh;
-    margin-left:vw;
-    position:absolute;
-    text-align: left;
-    color:#333;
+#s2 .img_txt .More{
+    display: flex;
+    font-weight:bold;
+	text-align: center;
+	padding-top:14vh;
+	line-height: 40px; 
 }
 #s2 .img{
   margin-left:-18%;
@@ -222,8 +221,7 @@ section{
     font-size:14px;
     font-weight: 500;
     margin-top: -25px;
-    margin-left: 120px;
-    
+    margin-left: 100px;
 }
 #s3 .txt h4{
     font-size:15.5px;
@@ -238,7 +236,7 @@ section{
 #s3 .txt .color{
     display: flex;
     margin-top: -25px;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 #s3 .txt .color1{
 	width:28px;
@@ -270,7 +268,7 @@ section{
 	text-align: center;
 	width:180px;
 	height: 40px;
-	margin-top:6%;
+	padding-top:3vh;
 	line-height: 40px;
 }
 #s3 .txt .More a{
@@ -326,7 +324,7 @@ section{
     font-size:14px;
     font-weight: 500;
     margin-top: -25px;
-    margin-left: 110px;
+    margin-left: 100px;
     white-space: nowrap;
 }
 #s4 .txt_in h4{
@@ -337,12 +335,12 @@ section{
 #s4 .txt_in h5{
     font-size:14.5px;
     font-weight: 550;
-    padding-top:18px;
+    padding-top:3vh;
 }
 #s4 .txt_in .color{
     display: flex;
     margin-top: -25px;
-    margin-left: 110px;
+    margin-left: 100px;
 }
 #s4 .txt_in .color1{
 	width:28px;
@@ -369,7 +367,7 @@ section{
 	text-align: center;
 	width:180px;
 	height: 40px;
-	margin-top:4%;
+	padding-top:3vh;
 	line-height: 40px; 
 }
 #s4 .txt_in .More a{
@@ -424,7 +422,7 @@ section{
     font-size:14px;
     font-weight: 500;
     margin-top: -25px;
-    margin-left: 110px;
+    margin-left: 100px;
     position:absolute;
     white-space: nowrap;
 }
@@ -436,12 +434,12 @@ section{
 #s5 .txt_in h5{
     font-size:14.5px;
     font-weight: 550;
-    padding-top:18px;
+    padding-top:3vh;
 }
 #s5 .txt_in .color{
     display: flex;
     margin-top: -25px;
-    margin-left: 110px;
+    margin-left: 100px;
 }
 #s5 .txt_in .color1{
 	width:28px;
@@ -468,7 +466,7 @@ section{
 	text-align: center;
 	width:180px;
 	height: 40px;
-	margin-top:8%;
+	padding-top:3vh;
 	line-height: 40px;
 }
 #s5 .txt_in .More a{
@@ -520,7 +518,7 @@ section{
     font-size:14px;
     font-weight:500;
     margin-top: -25px;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 #s6 .txt h4{
     font-size:15.5px;
@@ -530,13 +528,13 @@ section{
 #s6 .txt h5{
     font-size:14.5px;
     font-weight: 550;
-    padding-top:20px;
+    padding-top:3vh;
     white-space: nowrap;
 }
 #s6 .txt .color{
     display: flex;
       margin-top: -25px;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 #s6 .txt .color1{
 	width:28px;
@@ -568,7 +566,7 @@ section{
 	text-align: center;
 	width:180px;
 	height: 40px;
-	margin-top:5%;
+	padding-top:3vh;
 	line-height: 40px;
     
 }
